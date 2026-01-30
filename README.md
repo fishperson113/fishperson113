@@ -1,6 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on Building innovative AI-driven applications and high-performance end-to-end products.<br><br>👯 I’m looking to collaborate on Cutting-edge AI Agent frameworks and unique, experimental software ideas.<br><br>🤝 I’m looking for help with Deepening my expertise in Large Language Model (LLM) orchestration and scalable AI infrastructure.<br><br>🌱 I’m currently learning Advanced AI Engineering and the latest trends in autonomous agent architectures.<br><br>💬 Ask me about Full-stack development (FE, BE, Web, App, Game), building products from 0 to 1, and winning Hackathon strategies.<br><br>⚡ Fun fact I’ve survived multiple Hackathons, brought home top prizes, and I believe any creative idea can be coded into reality.
 
+# 🚀 My Live Portfolio:
+[![Portfolio](https://img.shields.io/badge/Check%20Out%20My%20Portfolio-🚀-blueviolet?style=for-the-badge&logo=react&logoColor=white)](https://duong-pham-portfolio.netlify.app/)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mucthichlannuoc) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/fishperson113/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duong-pham-96189227a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:phamduong1132005@gmail.com) 
